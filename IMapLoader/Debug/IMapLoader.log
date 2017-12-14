@@ -1,0 +1,11 @@
+﻿  characters.cpp
+e:\documents\imaploader\imaploader\imaploader.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+  TestSource.cpp
+e:\documents\imaploader\imaploader\imaploader.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+  IMaploader.cpp
+e:\documents\imaploader\imaploader\imaploader.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+  IKeyboardManager.cpp
+e:\documents\imaploader\imaploader\imaploader.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+  Collisions.cpp
+e:\documents\imaploader\imaploader\imaploader.h(3): fatal error C1083: Cannot open include file: 'irrlicht.h': No such file or directory
+  Generating Code...
